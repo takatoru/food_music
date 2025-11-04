@@ -1,0 +1,5594 @@
+{
+  "トースト": {
+    "id": "F001",
+    "taste": "salty",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "バタートースト": {
+    "id": "F002",
+    "taste": "salty",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "あんトースト": {
+    "id": "F003",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "クロワッサン": {
+    "id": "F004",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "salty"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "たまごサンド": {
+    "id": "F005",
+    "taste": "salty",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ハムサンド": {
+    "id": "F006",
+    "taste": "salty",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ナポリタン": {
+    "id": "F007",
+    "taste": "salty",
+    "options": [
+      "salty",
+      "sweet"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "カルボナーラ": {
+    "id": "F008",
+    "taste": "salty",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ペペロンチーノ": {
+    "id": "F009",
+    "taste": "spicy",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "5 a.m.",
+          "uri": "https://www.youtube.com/watch?v=wmmJ8Y-vo7U",
+          "artist": "The Millennium",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Donkey Rhubarb",
+          "uri": "https://www.youtube.com/watch?v=ceHxo5bKUcI",
+          "artist": "Aphex Twin",
+          "weight": 1.0
+        },
+        {
+          "title": "Applause (Viceroy Remix)",
+          "uri": "https://www.youtube.com/watch?v=7GrbOOX-alY",
+          "artist": "Lady Gaga",
+          "weight": 1.0
+        },
+        {
+          "title": "Ni**as In Paris",
+          "uri": "https://www.youtube.com/watch?v=gG_dA32oH44",
+          "artist": "Jay-Z & Kanye West",
+          "weight": 1.0
+        },
+        {
+          "title": "Oreo",
+          "uri": "https://www.youtube.com/watch?v=I7IhfeGy3KE",
+          "artist": "Rico Nasty",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Irby Tremor",
+          "uri": "https://www.youtube.com/watch?v=7wVbH6roY8w",
+          "artist": "Forest Swords",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "hit",
+          "uri": "https://www.youtube.com/watch?v=7GJxO-mBnoY",
+          "artist": "Section 25",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ミートソース": {
+    "id": "F010",
+    "taste": "salty",
+    "options": [
+      "salty",
+      "sweet"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "カレーライス": {
+    "id": "F011",
+    "taste": "spicy",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "5 a.m.",
+          "uri": "https://www.youtube.com/watch?v=wmmJ8Y-vo7U",
+          "artist": "The Millennium",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Donkey Rhubarb",
+          "uri": "https://www.youtube.com/watch?v=ceHxo5bKUcI",
+          "artist": "Aphex Twin",
+          "weight": 1.0
+        },
+        {
+          "title": "Applause (Viceroy Remix)",
+          "uri": "https://www.youtube.com/watch?v=7GrbOOX-alY",
+          "artist": "Lady Gaga",
+          "weight": 1.0
+        },
+        {
+          "title": "Ni**as In Paris",
+          "uri": "https://www.youtube.com/watch?v=gG_dA32oH44",
+          "artist": "Jay-Z & Kanye West",
+          "weight": 1.0
+        },
+        {
+          "title": "Oreo",
+          "uri": "https://www.youtube.com/watch?v=I7IhfeGy3KE",
+          "artist": "Rico Nasty",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Irby Tremor",
+          "uri": "https://www.youtube.com/watch?v=7wVbH6roY8w",
+          "artist": "Forest Swords",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "hit",
+          "uri": "https://www.youtube.com/watch?v=7GJxO-mBnoY",
+          "artist": "Section 25",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "オムライス": {
+    "id": "F012",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "salty"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ミネストローネ": {
+    "id": "F013",
+    "taste": "sour",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Eu Menti Pra Você",
+          "uri": "https://www.youtube.com/watch?v=v2f3u8zrb6c",
+          "artist": "Karina Buhr",
+          "weight": 1.0
+        },
+        {
+          "title": "One of the Girls",
+          "uri": "https://www.youtube.com/watch?v=S19J5wQbnBk",
+          "artist": "Otha",
+          "weight": 1.0
+        },
+        {
+          "title": "dom",
+          "uri": "https://www.youtube.com/watch?v=0srJ9m6WeUs",
+          "artist": "Bitamina",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Let's Get The Party Started",
+          "uri": "https://www.youtube.com/watch?v=qiyFpF5Cods",
+          "artist": "SISTAR",
+          "weight": 1.0
+        },
+        {
+          "title": "Svensk Sås",
+          "uri": "https://www.youtube.com/watch?v=C7xi_AS6FaE",
+          "artist": "Todd Terje",
+          "weight": 1.0
+        },
+        {
+          "title": "Ela é Tarja Preta",
+          "uri": "https://www.youtube.com/watch?v=g6_JQQs1FJE",
+          "artist": "Felipe Cordeiro",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Sunny Afternoon",
+          "uri": "https://www.youtube.com/watch?v=VVnNrwPwhuk",
+          "artist": "The Kinks",
+          "weight": 1.0
+        },
+        {
+          "title": "Agostina",
+          "uri": "https://www.youtube.com/watch?v=rWQwjAu752c",
+          "artist": "Puscifer",
+          "weight": 1.0
+        },
+        {
+          "title": "Gonna Send You Back To Where I Got You From",
+          "uri": "https://www.youtube.com/watch?v=Hsq2NbPnfjY",
+          "artist": "Van Morrison",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "XOX",
+          "uri": "https://www.youtube.com/watch?v=YWaeS1vOG9Y",
+          "artist": "IAMDDB",
+          "weight": 1.0
+        },
+        {
+          "title": "Basta de clamares inocência",
+          "uri": "https://www.youtube.com/watch?v=3uL7qAByP9A",
+          "artist": "Elis Regina",
+          "weight": 1.0
+        },
+        {
+          "title": "One - Single Version",
+          "uri": "https://www.youtube.com/watch?v=M8JO51TLGgg",
+          "artist": "Three Dog Night",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "コーンスープ": {
+    "id": "F014",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "オニオンスープ": {
+    "id": "F015",
+    "taste": "salty",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Check Yes Or No",
+          "uri": "https://www.youtube.com/watch?v=k6gnlDBynMA",
+          "artist": "George Strait",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Shadow On",
+          "uri": "https://www.youtube.com/watch?v=DJcd93Sc1_4",
+          "artist": "Michael Nau",
+          "weight": 1.0
+        },
+        {
+          "title": "Alagados",
+          "uri": "https://www.youtube.com/watch?v=cfi9K97ulmE",
+          "artist": "Os Paralamas Do Sucesso",
+          "weight": 1.0
+        },
+        {
+          "title": "Osez Joséphine",
+          "uri": "https://www.youtube.com/watch?v=x4XqRccCksw",
+          "artist": "Alain Bashung",
+          "weight": 1.0
+        },
+        {
+          "title": "Gimme o Anel",
+          "uri": "https://www.youtube.com/watch?v=XOU0Ud7yrO0",
+          "artist": "Charlie Brown JR.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Stranger Feelings",
+          "uri": "https://www.youtube.com/watch?v=VWe_Wd2jCxI",
+          "artist": "Dreamgirl",
+          "weight": 1.0
+        },
+        {
+          "title": "Fantasias",
+          "uri": "https://www.youtube.com/watch?v=wNYjD1Ak2do",
+          "artist": "Limão Com Mel",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "Mean Old World",
+          "uri": "https://www.youtube.com/watch?v=mFAWrEpBs-M",
+          "artist": "Sam Cooke",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "チーズケーキ": {
+    "id": "F016",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "sour"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ガトーショコラ": {
+    "id": "F017",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "モンブラン": {
+    "id": "F018",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ショートケーキ": {
+    "id": "F019",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "フルーツタルト": {
+    "id": "F020",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "sour"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "メープルパンケーキ": {
+    "id": "F021",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ベリー系パンケーキ": {
+    "id": "F022",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "sour"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ワッフル": {
+    "id": "F023",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "スコーン": {
+    "id": "F024",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "salty"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "マフィン": {
+    "id": "F025",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "クッキー": {
+    "id": "F026",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "フィナンシェ": {
+    "id": "F027",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "アイス": {
+    "id": "F028",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "sour",
+      "bitter",
+      "salty"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ジェラート": {
+    "id": "F029",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "sour",
+      "bitter",
+      "salty"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "シャーベット": {
+    "id": "F030",
+    "taste": "sour",
+    "options": [
+      "sour",
+      "sweet"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Eu Menti Pra Você",
+          "uri": "https://www.youtube.com/watch?v=v2f3u8zrb6c",
+          "artist": "Karina Buhr",
+          "weight": 1.0
+        },
+        {
+          "title": "One of the Girls",
+          "uri": "https://www.youtube.com/watch?v=S19J5wQbnBk",
+          "artist": "Otha",
+          "weight": 1.0
+        },
+        {
+          "title": "dom",
+          "uri": "https://www.youtube.com/watch?v=0srJ9m6WeUs",
+          "artist": "Bitamina",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Let's Get The Party Started",
+          "uri": "https://www.youtube.com/watch?v=qiyFpF5Cods",
+          "artist": "SISTAR",
+          "weight": 1.0
+        },
+        {
+          "title": "Svensk Sås",
+          "uri": "https://www.youtube.com/watch?v=C7xi_AS6FaE",
+          "artist": "Todd Terje",
+          "weight": 1.0
+        },
+        {
+          "title": "Ela é Tarja Preta",
+          "uri": "https://www.youtube.com/watch?v=g6_JQQs1FJE",
+          "artist": "Felipe Cordeiro",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Sunny Afternoon",
+          "uri": "https://www.youtube.com/watch?v=VVnNrwPwhuk",
+          "artist": "The Kinks",
+          "weight": 1.0
+        },
+        {
+          "title": "Agostina",
+          "uri": "https://www.youtube.com/watch?v=rWQwjAu752c",
+          "artist": "Puscifer",
+          "weight": 1.0
+        },
+        {
+          "title": "Gonna Send You Back To Where I Got You From",
+          "uri": "https://www.youtube.com/watch?v=Hsq2NbPnfjY",
+          "artist": "Van Morrison",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "XOX",
+          "uri": "https://www.youtube.com/watch?v=YWaeS1vOG9Y",
+          "artist": "IAMDDB",
+          "weight": 1.0
+        },
+        {
+          "title": "Basta de clamares inocência",
+          "uri": "https://www.youtube.com/watch?v=3uL7qAByP9A",
+          "artist": "Elis Regina",
+          "weight": 1.0
+        },
+        {
+          "title": "One - Single Version",
+          "uri": "https://www.youtube.com/watch?v=M8JO51TLGgg",
+          "artist": "Three Dog Night",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "コーヒー": {
+    "id": "F031",
+    "taste": "bitter",
+    "options": [
+      "bitter",
+      "sweet"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Action Scene",
+          "uri": "https://www.youtube.com/watch?v=zZSkf0Vjt9A",
+          "artist": "Flatsound",
+          "weight": 1.0
+        },
+        {
+          "title": "That Ole Devil Called Love",
+          "uri": "https://www.youtube.com/watch?v=t95wAQKxcXQ",
+          "artist": "Billie Holiday",
+          "weight": 1.0
+        },
+        {
+          "title": "Fil Atmeh",
+          "uri": "https://www.youtube.com/watch?v=uYxt3uSxTdY",
+          "artist": "El Far3i",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Arms of My Baby",
+          "uri": "https://www.youtube.com/watch?v=hoNBv7u2zJ0",
+          "artist": "Joss Stone",
+          "weight": 1.0
+        },
+        {
+          "title": "Goose",
+          "uri": "https://www.youtube.com/watch?v=EVSqUl-FtCI",
+          "artist": "Polyphia",
+          "weight": 1.0
+        },
+        {
+          "title": "Walking by a Wire",
+          "uri": "https://www.youtube.com/watch?v=ZGG6x5e23QA",
+          "artist": "Katatonia",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Nothing Owed",
+          "uri": "https://www.youtube.com/watch?v=U95Qjkc2oqw",
+          "artist": "Bonobo",
+          "weight": 1.0
+        },
+        {
+          "title": "Oh, Maker",
+          "uri": "https://www.youtube.com/watch?v=Lyux-sEdlbg",
+          "artist": "Janelle Monáe",
+          "weight": 1.0
+        },
+        {
+          "title": "In the Woods",
+          "uri": "https://www.youtube.com/watch?v=YmQyhfxfHHA",
+          "artist": "Ghost Brigade",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "A Luz E A Semente",
+          "uri": "https://www.youtube.com/watch?v=T0god_TGqRc",
+          "artist": "Sérgio Sampaio",
+          "weight": 1.0
+        },
+        {
+          "title": "My Valentine",
+          "uri": "https://www.youtube.com/watch?v=f4dzzv81X9w",
+          "artist": "Paul McCartney",
+          "weight": 1.0
+        },
+        {
+          "title": "Changelings",
+          "uri": "https://www.youtube.com/watch?v=BOXJS6iS1fg",
+          "artist": "Gazelle Twin",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "カフェラテ": {
+    "id": "F032",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "カプチーノ": {
+    "id": "F033",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "カフェモカ": {
+    "id": "F034",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "紅茶": {
+    "id": "F035",
+    "taste": "bitter",
+    "options": [
+      "bitter",
+      "sweet"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Action Scene",
+          "uri": "https://www.youtube.com/watch?v=zZSkf0Vjt9A",
+          "artist": "Flatsound",
+          "weight": 1.0
+        },
+        {
+          "title": "That Ole Devil Called Love",
+          "uri": "https://www.youtube.com/watch?v=t95wAQKxcXQ",
+          "artist": "Billie Holiday",
+          "weight": 1.0
+        },
+        {
+          "title": "Fil Atmeh",
+          "uri": "https://www.youtube.com/watch?v=uYxt3uSxTdY",
+          "artist": "El Far3i",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Arms of My Baby",
+          "uri": "https://www.youtube.com/watch?v=hoNBv7u2zJ0",
+          "artist": "Joss Stone",
+          "weight": 1.0
+        },
+        {
+          "title": "Goose",
+          "uri": "https://www.youtube.com/watch?v=EVSqUl-FtCI",
+          "artist": "Polyphia",
+          "weight": 1.0
+        },
+        {
+          "title": "Walking by a Wire",
+          "uri": "https://www.youtube.com/watch?v=ZGG6x5e23QA",
+          "artist": "Katatonia",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Nothing Owed",
+          "uri": "https://www.youtube.com/watch?v=U95Qjkc2oqw",
+          "artist": "Bonobo",
+          "weight": 1.0
+        },
+        {
+          "title": "Oh, Maker",
+          "uri": "https://www.youtube.com/watch?v=Lyux-sEdlbg",
+          "artist": "Janelle Monáe",
+          "weight": 1.0
+        },
+        {
+          "title": "In the Woods",
+          "uri": "https://www.youtube.com/watch?v=YmQyhfxfHHA",
+          "artist": "Ghost Brigade",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "A Luz E A Semente",
+          "uri": "https://www.youtube.com/watch?v=T0god_TGqRc",
+          "artist": "Sérgio Sampaio",
+          "weight": 1.0
+        },
+        {
+          "title": "My Valentine",
+          "uri": "https://www.youtube.com/watch?v=f4dzzv81X9w",
+          "artist": "Paul McCartney",
+          "weight": 1.0
+        },
+        {
+          "title": "Changelings",
+          "uri": "https://www.youtube.com/watch?v=BOXJS6iS1fg",
+          "artist": "Gazelle Twin",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ミルクティー": {
+    "id": "F036",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "レモンティー": {
+    "id": "F037",
+    "taste": "sour",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Eu Menti Pra Você",
+          "uri": "https://www.youtube.com/watch?v=v2f3u8zrb6c",
+          "artist": "Karina Buhr",
+          "weight": 1.0
+        },
+        {
+          "title": "One of the Girls",
+          "uri": "https://www.youtube.com/watch?v=S19J5wQbnBk",
+          "artist": "Otha",
+          "weight": 1.0
+        },
+        {
+          "title": "dom",
+          "uri": "https://www.youtube.com/watch?v=0srJ9m6WeUs",
+          "artist": "Bitamina",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Let's Get The Party Started",
+          "uri": "https://www.youtube.com/watch?v=qiyFpF5Cods",
+          "artist": "SISTAR",
+          "weight": 1.0
+        },
+        {
+          "title": "Svensk Sås",
+          "uri": "https://www.youtube.com/watch?v=C7xi_AS6FaE",
+          "artist": "Todd Terje",
+          "weight": 1.0
+        },
+        {
+          "title": "Ela é Tarja Preta",
+          "uri": "https://www.youtube.com/watch?v=g6_JQQs1FJE",
+          "artist": "Felipe Cordeiro",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Sunny Afternoon",
+          "uri": "https://www.youtube.com/watch?v=VVnNrwPwhuk",
+          "artist": "The Kinks",
+          "weight": 1.0
+        },
+        {
+          "title": "Agostina",
+          "uri": "https://www.youtube.com/watch?v=rWQwjAu752c",
+          "artist": "Puscifer",
+          "weight": 1.0
+        },
+        {
+          "title": "Gonna Send You Back To Where I Got You From",
+          "uri": "https://www.youtube.com/watch?v=Hsq2NbPnfjY",
+          "artist": "Van Morrison",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "XOX",
+          "uri": "https://www.youtube.com/watch?v=YWaeS1vOG9Y",
+          "artist": "IAMDDB",
+          "weight": 1.0
+        },
+        {
+          "title": "Basta de clamares inocência",
+          "uri": "https://www.youtube.com/watch?v=3uL7qAByP9A",
+          "artist": "Elis Regina",
+          "weight": 1.0
+        },
+        {
+          "title": "One - Single Version",
+          "uri": "https://www.youtube.com/watch?v=M8JO51TLGgg",
+          "artist": "Three Dog Night",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ほうじ茶": {
+    "id": "F038",
+    "taste": "bitter",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Action Scene",
+          "uri": "https://www.youtube.com/watch?v=zZSkf0Vjt9A",
+          "artist": "Flatsound",
+          "weight": 1.0
+        },
+        {
+          "title": "That Ole Devil Called Love",
+          "uri": "https://www.youtube.com/watch?v=t95wAQKxcXQ",
+          "artist": "Billie Holiday",
+          "weight": 1.0
+        },
+        {
+          "title": "Fil Atmeh",
+          "uri": "https://www.youtube.com/watch?v=uYxt3uSxTdY",
+          "artist": "El Far3i",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Arms of My Baby",
+          "uri": "https://www.youtube.com/watch?v=hoNBv7u2zJ0",
+          "artist": "Joss Stone",
+          "weight": 1.0
+        },
+        {
+          "title": "Goose",
+          "uri": "https://www.youtube.com/watch?v=EVSqUl-FtCI",
+          "artist": "Polyphia",
+          "weight": 1.0
+        },
+        {
+          "title": "Walking by a Wire",
+          "uri": "https://www.youtube.com/watch?v=ZGG6x5e23QA",
+          "artist": "Katatonia",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "Nothing Owed",
+          "uri": "https://www.youtube.com/watch?v=U95Qjkc2oqw",
+          "artist": "Bonobo",
+          "weight": 1.0
+        },
+        {
+          "title": "Oh, Maker",
+          "uri": "https://www.youtube.com/watch?v=Lyux-sEdlbg",
+          "artist": "Janelle Monáe",
+          "weight": 1.0
+        },
+        {
+          "title": "In the Woods",
+          "uri": "https://www.youtube.com/watch?v=YmQyhfxfHHA",
+          "artist": "Ghost Brigade",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "A Luz E A Semente",
+          "uri": "https://www.youtube.com/watch?v=T0god_TGqRc",
+          "artist": "Sérgio Sampaio",
+          "weight": 1.0
+        },
+        {
+          "title": "My Valentine",
+          "uri": "https://www.youtube.com/watch?v=f4dzzv81X9w",
+          "artist": "Paul McCartney",
+          "weight": 1.0
+        },
+        {
+          "title": "Changelings",
+          "uri": "https://www.youtube.com/watch?v=BOXJS6iS1fg",
+          "artist": "Gazelle Twin",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "カモミール": {
+    "id": "F039",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ココア": {
+    "id": "F040",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ジュース": {
+    "id": "F041",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "ミックスジュース": {
+    "id": "F042",
+    "taste": "sweet",
+    "options": [
+      "sweet",
+      "sour"
+    ],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "バナナジュース": {
+    "id": "F043",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  },
+  "メロンソーダ": {
+    "id": "F044",
+    "taste": "sweet",
+    "options": [],
+    "music": {
+      "relaxation": [
+        {
+          "title": "Concrete Wall",
+          "uri": "https://www.youtube.com/watch?v=LFxB-LYipjo",
+          "artist": "Zee Avi",
+          "weight": 1.0
+        },
+        {
+          "title": "Nagashi",
+          "uri": "https://www.youtube.com/watch?v=tD5K-e0IAeg",
+          "artist": "idealism",
+          "weight": 1.0
+        },
+        {
+          "title": "Playing Favorites",
+          "uri": "https://www.youtube.com/watch?v=v-O7fZDbI7Y",
+          "artist": "The Starting Line",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "excitement": [
+        {
+          "title": "Under Cover",
+          "uri": "https://www.youtube.com/watch?v=CzRp4rL9Hds",
+          "artist": "Ducktails",
+          "weight": 1.0
+        },
+        {
+          "title": "When We First Met",
+          "uri": "https://www.youtube.com/watch?v=s7Hr2_DDqeE",
+          "artist": "Hellogoodbye",
+          "weight": 1.0
+        },
+        {
+          "title": "Dímelo",
+          "uri": "https://www.youtube.com/watch?v=v0tmkMLUDwY",
+          "artist": "Enrique Iglesias",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "focus": [
+        {
+          "title": "River Down Below",
+          "uri": "https://www.youtube.com/watch?v=ZS1crIkpnwc",
+          "artist": "Riverside",
+          "weight": 1.0
+        },
+        {
+          "title": "Sweet the Sting",
+          "uri": "https://www.youtube.com/watch?v=Kw6wQxwT_-s",
+          "artist": "Tori Amos",
+          "weight": 1.0
+        },
+        {
+          "title": "Landscape Escape",
+          "uri": "https://www.youtube.com/watch?v=bQUEXRE10iw",
+          "artist": "Odd Beholder",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ],
+      "calm": [
+        {
+          "title": "X-Static Process",
+          "uri": "https://www.youtube.com/watch?v=EpaqaEboLFw",
+          "artist": "Madonna",
+          "weight": 1.0
+        },
+        {
+          "title": "Everything Means Nothing To Me",
+          "uri": "https://www.youtube.com/watch?v=m2NCuoVMhjk",
+          "artist": "Elliott Smith",
+          "weight": 1.0
+        },
+        {
+          "title": "Hard to Love a Man",
+          "uri": "https://www.youtube.com/watch?v=fcgKhDpOszA",
+          "artist": "Magnolia Electric Co.",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        },
+        {
+          "title": "nan",
+          "uri": "nan",
+          "weight": 1.0
+        }
+      ]
+    }
+  }
+}

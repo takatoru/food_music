@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>食と音楽のマッチングシステム</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🍴 食と音楽のマッチングシステム 🎵</h1>
+
+    <!-- 料理選択 -->
+    <div class="section">
+      <label for="food">料理を選択：</label>
+      <select id="food">
+        <option value="">-- 選択してください --</option>
+      </select>
+    </div>
+
+    <!-- 味覚選択（allow_choice=TRUE のときだけ出す） -->
+    <div class="section" id="taste-section" style="display:none;">
+      <label for="taste">感じたい味覚：</label>
+      <select id="taste">
+        <option value="">-- 選択してください --</option>
+      </select>
+    </div>
+
+    <!-- 気分選択 -->
+    <div class="section">
+      <label for="mood">気分を選択：</label>
+      <select id="mood">
+        <option value="">-- 選択してください --</option>
+        <option value="relaxation">リラックス</option>
+        <option value="excitement">元気</option>
+        <option value="focus">集中</option>
+        <option value="calm">落ち着き</option>
+      </select>
+    </div>
+
+    <button id="playBtn">🎵 音楽を再生</button>
+
+    <div id="player">
+      <audio id="audioPlayer" controls></audio>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

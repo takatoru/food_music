@@ -1,0 +1,105 @@
+/* === 全体設定 === */
+html, body {
+  height: 100%;           /* 🔹 これが重要 */
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background-color: #fafafa;
+  color: #333;
+  display: flex;           /* 🔹 中央寄せにする */
+  justify-content: center; /* 🔹 横方向中央 */
+  align-items: center;     /* 🔹 縦方向中央 */
+  text-align: center;
+}
+
+/* === コンテナ === */
+.container {
+  width: 90%;
+  max-width: 600px;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+
+  /* 🔹 marginを削除 or 0に */
+  margin: 0;
+}
+
+/* === タイトル === */
+h1 {
+  color: #2c3e50;
+  font-size: 1.8em;
+  margin-bottom: 30px;
+}
+
+/* === 各セクション === */
+.section {
+  margin: 20px 0;
+  text-align: left;
+}
+
+/* === ラベル === */
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+/* === プルダウンメニュー === */
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+  transition: border 0.3s ease;
+}
+
+select:focus {
+  border-color: #5e81ac;
+}
+
+/* === ボタン === */
+button {
+  background-color: #5e81ac;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #4c6a91;
+}
+
+/* === プレイヤー部分 === */
+#audioPlayer {
+  margin-top: 30px;
+  width: 100%;
+  outline: none;
+}
+
+/* === スマホ対応 === */
+@media (max-width: 480px) {
+  .container {
+    width: 95%;
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 1.4em;
+  }
+
+  button {
+    width: 100%;
+  }
+}
